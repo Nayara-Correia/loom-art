@@ -24,10 +24,13 @@ header {
     gap: 20px;
     justify-content: center;
     padding: 20px;
+    width: 100px;
+    height: auto;
+    border-radius: 8px;
 }
 
 .product {
-    background-color: #fff;
+    background-color: #FFF8F0;
     border: 1px solid #ddd;
     border-radius: 8px;
     width: 200px;
