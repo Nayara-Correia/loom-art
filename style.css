@@ -18,63 +18,7 @@ header {
     padding: 20px;
 }
 
-.ursinho bart {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
-    padding: 20px;
+.ursinhobart {
     width: 100px;
     height: auto;
-    border-radius: 8px;
-}
-
-.product {
-    background-color: #FFF8F0;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    width: 10px;
-    text-align: center;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-}
-
-.product img {
-    width: 20%;
-    border-radius: 8px;
-}
-
-.product h2 {
-    font-size: 18px;
-    margin: 10px 0;
-}
-
-.product p {
-    font-size: 16px;
-    color: #555;
-}
-
-.product a {
-    display: inline-block;
-    margin-top: 10px;
-    padding: 10px 15px;
-    background-color: #25D366;
-    color: #fff;
-    border-radius: 5px;
-    text-decoration: none;
-    font-weight: bold;
-    transition: background-color 0.3s;
-}
-
-.product a:hover {
-    background-color: #1ebe5d;
-}
-
-footer {
-    margin-top: 20px;
-    padding: 10px;
-    text-align: center;
-    background-color: #333;
-    color: #fff;
-    width: 100%;
 }
