@@ -18,7 +18,7 @@ header {
     padding: 20px;
 }
 
-.product-gallery {
+.ursinho bart {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
@@ -37,7 +37,7 @@ header {
 }
 
 .product img {
-    width: 100%;
+    width: 20%;
     border-radius: 8px;
 }
 
